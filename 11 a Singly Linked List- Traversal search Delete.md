@@ -16,6 +16,8 @@ To write a Python function to traverse a linked list and display its elements in
 
 ### Program:
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 class Node:
     def __init__(self, data=None):
         self.data = data
